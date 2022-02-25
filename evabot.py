@@ -9,10 +9,10 @@ from glob import glob
 Online = True
 
 #key 
-consumer_key = "yEp4rgBOnmqjsBOBmJ0VcIGlb"
-consumer_secret = "KJFkYD8zypxxJ59GYouqvFLpEO0hANWvRvXTzTWSLoGGYzf3JN"
-access_key = "864887996033748992-AKZBw2wreU8LpQajovh7uJc4RjiFSAL"
-access_key_secret = "1gJ7auqctwB0HeyPuUGvA5I8lbKDr6FDOSNs6PGCtL4Nu"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_key_secret = ""
 
 
 # config
